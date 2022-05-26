@@ -1,0 +1,136 @@
+    body {
+        background-color: #C2DED1;
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+
+    h1 {
+        margin: 20px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 6em;
+        line-height: 1;
+        color: #354259;
+    }
+
+    h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        font-weight: normal;
+        color: #354259;
+    }
+
+     h3 {
+         font-family: 'Montserrat', sans-serif;
+         color: #11999E;
+    }
+
+    p {
+    color: #40514E;
+    }
+
+    a {
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #F9F3EE;
+    }
+
+    .top-cloud {
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+
+    .bottom-cloud {
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+
+    hr {
+        margin: 80px auto 80px auto;
+        border-color: #CDC2AE;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 5%;
+    }
+
+    .profile_pic {
+        width: 200px;
+    }
+
+    .intro {
+    width: 50%;
+    margin: auto;
+    }
+
+    .skill_1_pic {
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+    }
+
+    .skill_2_pic {
+        width: 25%;
+        float: right;
+        margin-left: 30px;
+    }
+
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 1.5;
+    }
+
+    .top-container {
+        background-color: #C2DED1;
+        position: relative;
+        padding-top: 100px;
+    }
+
+    .middle-container {
+    background-color: #F9F3EE;
+    padding: 60px 60px;
+    }
+
+    .contact_paragraph {
+        width: 50%;
+        margin: 0px auto 20px auto;
+    }
+
+    .btn {
+        content: "\2709";
+        font-size: 100px;
+        color: #C2DED1;
+    }
+
+    .btn:hover {
+    color: white;
+
+    }
+
+    .bottom-container {
+        padding: 40px 40px;
+        background-color: #C2DED1;
+    }
+
+
+    .copyright {
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px;
+    }
+
+    .attribution {
+        background-color: #C2DED1;
+        font-size: 10px;
+        display: block;
+
+    }
